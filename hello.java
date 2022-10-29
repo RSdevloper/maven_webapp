@@ -1,4 +1,5 @@
 class hello{
+	
+	system.out.println("Hii")
 
-	system.out.ptintln("bye")
 }
